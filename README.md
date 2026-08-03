@@ -1,7 +1,9 @@
 # Victor Pena
 
-Computer Engineering Graduate  
+Computer Engineering Graduate
 University of Texas at Arlington
+
+Embedded Systems • Firmware • FPGA • Robotics
 
 ---
 
