@@ -1,83 +1,59 @@
 # Victor Pena
 
-Computer Engineering Graduate
-University of Texas at Arlington
+### Computer Engineering Graduate | University of Texas at Arlington
 
-Embedded Systems • Firmware • FPGA • Robotics
+**Embedded Systems | Firmware | Robotics | Digital Design**
 
 ---
 
 ## About Me
 
-I am a Computer Engineering graduate with experience in embedded systems, firmware development, FPGA design, robotics, and hardware/software integration. My projects focus on designing reliable embedded solutions using microcontrollers, digital logic, and autonomous robotic systems.
+Computer Engineering graduate with hands-on experience in embedded systems, robotics, digital communications, and hardware/software integration.
 
-I enjoy building systems that combine hardware and software to solve real-world engineering problems while continuously expanding my knowledge of embedded technologies.
+My projects include ARM-based embedded systems, autonomous robotics, wireless communications, and digital design. I enjoy building, integrating, testing, and troubleshooting systems that combine hardware and software.
+
+Currently seeking entry-level opportunities in embedded systems, firmware, hardware/test engineering, FPGA/digital design, robotics, and systems integration.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-- C
-- Java
-- ARM Assembly
-- Verilog HDL
+**Programming:** C, Embedded C, Verilog HDL, ARM Assembly, Java, MATLAB
 
-### Embedded Systems
-- TM4C123GH6PM Microcontroller
-- GPIO
-- UART
-- PWM
-- ADC
-- DMA
-- Timers
-- Interrupts
+**Embedded Systems:** TM4C123GH6PM, GPIO, UART, PWM, ADC, DMA, Timers, Interrupts, FSMs
 
-### Robotics
-- ROS2
-- Raspberry Pi
-- LiDAR
-- GPS
-- IMU
-- Ultrasonic Sensors
-- Luxonis AI Camera
+**Robotics:** ROS 2, Raspberry Pi, LiDAR, GPS, IMU, Ultrasonic Sensors, Luxonis AI Camera
 
-### Software & Tools
-- Git
-- Code Composer Studio
-- Quartus Prime
-- SolidWorks
-- Linux
+**Communications & DSP:** RTL-SDR, BPSK, QPSK, 8PSK, 16-QAM, Digital Demodulation, BER Analysis
+
+**Tools:** Git, Code Composer Studio, Quartus Prime, MATLAB, SolidWorks, AutoCAD, Linux
+
+**Hardware & Test:** Oscilloscope, Spectrum Analyzer, Breadboarding, Soldering, Low-Voltage Wiring, 3D Printing
 
 ---
 
-## Featured Projects
+## Featured Engineering Projects
 
 ### Autonomous Supply-Following Robot
-Senior Design project implementing an autonomous robotic wagon using ROS2, Raspberry Pi, LiDAR, GPS, IMU, ultrasonic sensors, and a Luxonis AI camera for navigation and obstacle avoidance.
 
-### Embedded Aquarium Monitoring System
-Embedded system developed using the TM4C123GH6PM microcontroller featuring temperature monitoring, turbidity sensing, automatic feeding, and an LCD user interface.
+Autonomous robotic wagon using ROS 2, Raspberry Pi, LiDAR, GPS, IMU, ultrasonic sensors, and a Luxonis AI camera for navigation, obstacle avoidance, and user tracking.
+
+### Embedded Aquarium Monitoring & Care System
+
+Embedded monitoring and control system built around the TM4C123GH6PM ARM Cortex-M microcontroller with temperature monitoring, turbidity sensing, automatic feeding, and an LCD interface.
 
 ### Wireless Digital Communication System
-Wireless communication project involving BPSK, QPSK, 8PSK, and 16-QAM modulation, RF propagation and antenna testing, RTL-SDR signal reception, and MATLAB-based synchronization, filtering, demodulation, and BER analysis.
 
----
+Wireless communications project involving BPSK, QPSK, 8PSK, and 16-QAM modulation, RF propagation, RTL-SDR signal reception, and MATLAB-based signal processing and BER analysis.
 
-## Areas of Interest
+### FPGA & Digital Design
 
-- Embedded Systems Engineering
-- Firmware Development
-- FPGA Design
-- Robotics
-- Hardware Validation
-- Digital Design
-- Microcontroller Programming
+Academic experience using Verilog HDL and Quartus Prime for digital logic and FPGA-based design.
 
 ---
 
 ## Contact
 
-Email: Victor22jp@icloud.com
-
-GitHub: https://github.com/Vjp3082
+**Email:** Victor22jp@icloud.com  
+**LinkedIn:** [Victor Pena](https://www.linkedin.com/in/victor-pena-753079237/)  
+**GitHub:** [Vjp3082](https://github.com/Vjp3082)
