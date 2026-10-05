@@ -59,14 +59,8 @@ Senior Design project implementing an autonomous robotic wagon using ROS2, Raspb
 ### Embedded Aquarium Monitoring System
 Embedded system developed using the TM4C123GH6PM microcontroller featuring temperature monitoring, turbidity sensing, automatic feeding, and an LCD user interface.
 
-### FPGA DMA Controller
-Designed and simulated a dual-channel DMA controller using Verilog HDL with finite state machines, arbitration logic, and functional verification through simulation.
-
-### Java Sudoku Game
-Object-oriented Sudoku application featuring multiple difficulty levels, input validation, and game state management.
-
-### Java PhoneBook Application
-Console-based phonebook application using Java with file handling, object-oriented programming, and persistent data storage.
+### Wireless Digital Communication System
+Wireless communication project involving BPSK, QPSK, 8PSK, and 16-QAM modulation, RF propagation and antenna testing, RTL-SDR signal reception, and MATLAB-based synchronization, filtering, demodulation, and BER analysis.
 
 ---
 
